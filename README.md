@@ -23,6 +23,8 @@ e) Return the predicted class<br>
 ## ACCURACY
 Training Accuracy = 98%<br>
 Testing Accuracy = 89%
+
+
   
   
   
